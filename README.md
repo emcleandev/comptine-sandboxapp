@@ -5,12 +5,13 @@ A full-stack web application with hosted cloud-server, MEAN stack.
 Comptine - a genesis point for projects requiring basic authentication, user profile features and solid server-client architecture. A solid, clean foundation for qaulity projects to branch from.
 So, this Sandbox app for testing my server responses to authorisation-**roles**, authentication and user creation.
 
+- backend: [comptine-functions](https://github.com/emcleandev/comptine-functions) (focused)
 Stack and technologies: **Angular**,**Express-node-TS**, **Firebase/Firestore**,**Postman**, **Jest-testing**, **Jasmine-testing** 
 
 ### Principles and Practices
 I've demonstrated highly-professional programming techniches and practices
-e.g. **balanced cohesion and coupling, dependecy injection, interfaces and types (in combination and thier explict case usuage)
-OPP MCV architecture pattern, SOLID and more. **
+- e.g. **balanced cohesion and coupling, dependecy injection, interfaces and types (in combination and thier explict case usuage)**
+- **OPP MCV architecture pattern, SOLID and more.** 
 - I made a wiki based on such practices and more to set a standard.
 
 (comptine functions)
