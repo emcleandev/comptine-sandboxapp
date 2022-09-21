@@ -7,7 +7,7 @@ So, this Sandbox app for testing my server responses to authorisation-**roles**,
 
 - backend: [comptine-functions](https://github.com/emcleandev/comptine-functions) (focused)
 
-- Stack and technologies: **Angular**,**Express-node-TS**, **Firebase/Firestore**,**Postman**, **Jest-testing**, **Jasmine-testing** 
+- Stack and technologies: **Angular-ts**, **Express-node-TS**, **Firebase/Firestore**,**Postman**, **Jest-testing**, **Jasmine-testing** 
 
 ### Principles and Practices
 I've demonstrated highly-professional programming techniches and practices
@@ -19,10 +19,10 @@ I've demonstrated highly-professional programming techniches and practices
 ### Features
 - Authentication of users 
 - Authorisation of user roles between Root-user(Admin), Admin, Manager, Guest/user 
-- User creation, patching, deletion.
+- User creation, patching, deletion. (CRUD)
 - error handling
 - Testing templates
-- unit testings, Postman api testing.
+- Unit Testings, Postman api testing.
 
 ## Getting Started
 
