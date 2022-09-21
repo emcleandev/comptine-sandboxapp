@@ -21,8 +21,8 @@ export class UserFormComponent implements OnInit {
     password: new FormControl(''),
     role: new FormControl(''),
   });
-  title$: Observable<string>;
-  user$: Observable<{}>;
+  title$!: Observable<string>;
+  user$!: Observable<{}>;
 
   constructor(
     public modal: NgbActiveModal,

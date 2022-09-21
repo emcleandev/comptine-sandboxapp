@@ -11,12 +11,12 @@ export class UserFormService {
 
   constructor() { }
 
-  edit(user) {
+  edit(user: any) {
     this._BS.next({ title: 'Edit User', user });
   }
 
   create() {
-    this._BS.next({ title: 'Create User', user: null });
+    this._BS.next({ title: 'Create User', user: {} });
   }
 
   get title$() {
