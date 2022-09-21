@@ -22,7 +22,6 @@ export class AuthTokenHttpInterceptor implements HttpInterceptor {
                 return next.handle(clone)
             })
         )
-
     }
 }
 
