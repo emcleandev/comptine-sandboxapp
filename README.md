@@ -19,7 +19,13 @@ Stack and technologies: Angul, **Firebase**, Dart
   - [Doc Sample](https://drive.google.com/drive/folders/1xlYyBHY9w8M5S360de1E8k9Hh4bwBPvW?usp=sharing)
   - and more... in our teams, jira, notepads/sketchpads.
 
-### Demo Screenshots and Video
+## Getting Started
+
+Cloud-server already running, so just Run angular app  
+
+
+### Demo Screenshots
+- **Testing** using **Postman** and my **Sandbox** angular app.
 <img width="1440" alt="Screenshot 2022-09-21 at 17 16 25" src="https://user-images.githubusercontent.com/58271203/191563421-86befb71-2cdf-4620-ab54-ac23010a72d2.png">
 
 ![Screenshot 2022-09-21 at 17 16 25 (2)](https://user-images.githubusercontent.com/58271203/191563428-d0104c56-0518-4fe7-be22-5e0400473f63.png)
@@ -29,9 +35,6 @@ Stack and technologies: Angul, **Firebase**, Dart
 ![Screenshot 2022-09-21 at 17 19 16](https://user-images.githubusercontent.com/58271203/191563442-435a43a5-4508-4347-a797-97496383edbc.png)
 
 
-## Getting Started
-
-Cloud-server already running, so just Run angular app  
 
         
 
