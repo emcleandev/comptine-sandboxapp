@@ -5,16 +5,26 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDODLVMuwrvGobMXkI89DktOLgwf0mCM24",
-    authDomain: "joaq-lab.firebaseapp.com",
-    databaseURL: "https://joaq-lab.firebaseio.com",
-    projectId: "joaq-lab",
-    storageBucket: "joaq-lab.appspot.com",
-    messagingSenderId: "794748950011",
-    appId: "1:794748950011:web:815fe385e7317c11"
+    apiKey: "AIzaSyB078P-zJ0udeJ4entds7buf7mfWatzEp4",
+    authDomain: "comptine-seed.firebaseapp.com",
+    projectId:  "comptine-seed",
+    storageBucket: "comptine-seed.appspot.com",
+    messagingSenderId: "850168117554",
+    appId:"1:850168117554:web:8513ffc010ef0b4dd23f2b",
+    measurementID: "G-VK55SGF693",
   },
-  userApi: 'http://localhost:5000/joaq-lab/us-central1/api'
+  userApi: 'http://localhost:5001/comptine-seed/us-central1/api'
 };
+
+// APIKEY: "AIzaSyB078P-zJ0udeJ4entds7buf7mfWatzEp4",
+// AUTHDOMAIN: "comptine-seed.firebaseapp.com",
+// PROJECTID: "comptine-seed",
+// STORAGEBUCKET: "comptine-seed.appspot.com",
+// MESSAGINGSENDERID: "850168117554",
+// APPID: "1:850168117554:web:8513ffc010ef0b4dd23f2b",
+// MEASUREMENTID: "G-VK55SGF693"
+
+
 
 /*
  * For easier debugging in development mode, you can import the following file
