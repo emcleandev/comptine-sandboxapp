@@ -17,6 +17,7 @@ I've demonstrated highly-professional programming techniches and practices
 
 (comptine functions)
 ### Features
+- Http intercepts anf analysis
 - Authentication of users 
 - Authorisation of user roles between Root-user(Admin), Admin, Manager, Guest/user 
 - User creation, patching, deletion. (CRUD)
