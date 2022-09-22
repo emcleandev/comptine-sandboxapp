@@ -13,7 +13,7 @@ So, this Sandbox app for testing my server responses to authorisation-**roles**,
 I've demonstrated highly-professional programming techniches and practices
 - e.g. **balanced cohesion and coupling, dependecy injection, interfaces and types (in combination and thier explict case usuage)**
 - **OPP MCV architecture pattern,Concerns-seperation, SOLID principles and more.** 
-- I often produce high qaulity code, but here it is highlited.
+- Im known for producing high qaulity code and practices, but here it is highlited.
 - I made a wiki based on such practices and more to set a standard.
 
 (comptine functions)
