@@ -7,11 +7,11 @@ So, this Sandbox app for testing my server responses to authorisation-**roles**,
 
 - backend: [comptine-functions](https://github.com/emcleandev/comptine-functions) (focused)
 
-- Stack and technologies: **Angular-ts**, **Express-node-TS**, **Firebase/Firestore**,**Postman**, **Jest-testing**, **Jasmine-testing** 
+- Stack and technologies: **Angular-ts**, **Express-node-TS**, **Firebase/Firestore**,**Postman**, **Jest-testing**, **Winston-logging**, **Jasmine-testing** 
 
 ### Principles and Practices
 I've demonstrated highly-professional programming techniches and practices
-- e.g. **balanced cohesion and coupling, dependecy injection, interfaces and types (in combination and thier explict case usuage)**
+- e.g. **balanced cohesion and coupling, dependecy injection, extensions, interfaces and types (in combination and thier explict case usuage)**
 - **OPP MCV architecture pattern,Concerns-seperation, SOLID principles and more.** 
 - Im known for producing high qaulity code and practices, but here it is highlited.
 - I made a wiki based on such practices and more to set a standard.
