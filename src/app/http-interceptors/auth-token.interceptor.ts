@@ -12,7 +12,6 @@ export class AuthTokenHttpInterceptor implements HttpInterceptor {
     ) { }
 
     intercept(req: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
-        console.log("here")
 
         return this.auth.idToken.pipe(
             take(1),
